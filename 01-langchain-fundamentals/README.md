@@ -3,21 +3,23 @@
 This folder contains code examples on **LangChain Document/Data Loaders**.  
 The goal is to understand how we can load data from different sources into LangChain.
 
+---
 ### Installation Guide
-``` conda create -n environment-name python=3.11 ```
-``` conda activate environment-name ```
+ conda create -n environment-name python=3.11 
+ conda activate environment-name 
 
-``` pip install --upgrade "langchain>=0.3,<0.4"```
-``` pip install --upgrade "langchain-community>=0.3,<0.4" ```
-``` pip install --upgrade "langchain-text-splitters>=0.3,<0.4" ```
-``` pip install --upgrade "langchain-core>=0.3,<0.4" ```
-``` pip install google-generativeai ```
+ pip install --upgrade "langchain>=0.3,<0.4"
+ pip install --upgrade "langchain-community>=0.3,<0.4" 
+ pip install --upgrade "langchain-text-splitters>=0.3,<0.4" 
+ pip install --upgrade "langchain-core>=0.3,<0.4" 
+ pip install google-generativeai ```
 
-``` pip install pypdf ```
-``` pip install bs4 ```
-``` pip install unstructured ```
-``` pip install markdown  ```
+ pip install pypdf 
+ pip install bs4 
+ pip install unstructured 
+pip install markdown 
 
+---
 
 ---
 
