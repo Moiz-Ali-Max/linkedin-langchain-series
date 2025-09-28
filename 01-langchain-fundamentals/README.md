@@ -1,4 +1,4 @@
-# 📘 LangChain Lecture 01 — Document & Data Loaders
+# 📘 LangChain Lecture 01: Document & Data Loaders
 
 This folder contains code examples on **LangChain Document/Data Loaders**.  
 The goal is to understand how we can load data from different sources into LangChain.
