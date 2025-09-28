@@ -39,7 +39,7 @@ Think of them like **import tools**:
 
 ## 📄 Notes
 Detailed notes are available here:  
-👉 [Day1-LangChain.pdf](./day1-langchain.pdf)
+👉 [Drop1-LangChain-Fundamentals-Data-Loader.pdf](./Drop1_LangChain_Fundamentals_and_Data_Loader.pdf)
 
 ---
 
